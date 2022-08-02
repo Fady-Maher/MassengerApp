@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MassengerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">channel name</string>
+    <string name="channel_description">channel description</string>
+    <string name="web_client_id" translatable="false">704678299348-imj60rfcdqt0tclqgc37eck4hg6l56qb.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="warning_from_delete_process">Do you really want to do the deleteing process? Knowing that when
+    you delete the account of that friend, this will lead to the loss of
+    all the data shared between you and the other ( photos, messages, etc.. ).
+    If you want to cancel the process, please click on Cancel
+    , and if you want to continue the process, please click on Delete </string>
+    <string name="time_start">00:00</string>
+
+</resources>

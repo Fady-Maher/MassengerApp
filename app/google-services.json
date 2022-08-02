@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704678299348",
+    "project_id": "massengerapp-17135",
+    "storage_bucket": "massengerapp-17135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704678299348:android:5a17544d8e12c86c78dd41",
+        "android_client_info": {
+          "package_name": "com.example.massengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704678299348-tahv49a051tpl7us3ttcrq5ggh8gtjv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.massengerapp",
+            "certificate_hash": "079c773fa18674709f1e3c34fdd8d123433c2455"
+          }
+        },
+        {
+          "client_id": "704678299348-imj60rfcdqt0tclqgc37eck4hg6l56qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfphuU6m1iWNJWJq4jVc4LKuTwVfG9TmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704678299348-imj60rfcdqt0tclqgc37eck4hg6l56qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
